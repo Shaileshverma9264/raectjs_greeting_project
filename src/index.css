@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(210, 235, 141);
+  box-sizing: border-box;
+  margin: 0%;
+  padding: 0;
+  
+}
+div{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 250px;
+
+}
+h1{
+  padding: 20px 20px;
+  background-color: antiquewhite;
+  color: #ec092e;
+  border-radius: 20px;
+ 
+}
+span{
+  color: rgb(160, 160, 199);
+}
+
+ 
